@@ -6,6 +6,6 @@ Fake server with fake database created and hosted using [Heroku](https://www.her
 
 #### This fake server is used for:
 
-- [Trip Booking App](https://github.com/kubaparol/trip-booking-app)
-- [GitHub SDK](https://github.com/kubaparol/github-sdk)
-- [React Meeting Planner](https://github.com/kubaparol/meeting-planner)
+- [Trip Booking App](https://github.com/kubaparol/trip-booking-app) :train:
+- [GitHub SDK](https://github.com/kubaparol/github-sdk) :link:
+- [React Meeting Planner](https://github.com/kubaparol/meeting-planner) :briefcase:
